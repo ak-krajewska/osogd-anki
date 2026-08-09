@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Cue	Line	Deck	Tags
+#deck column:3
+#tags column:4
+<b>Hierophant:</b> Sr/Fr Stolistes, your station and duties?	My station is in the North to symbolize Cold and Moisture.	Neophyte::02. Stolistes::02. officers	officers Stolistes
+My station is in the North to symbolize Cold and Moisture.	My duty is to see that the Robes and Insignia of the Officers are ready at the opening,	Neophyte::02. Stolistes::02. officers	officers Stolistes
+My duty is to see that the Robes and Insignia of the Officers are ready at the opening,	to watch over the Cup of Lustral Water,	Neophyte::02. Stolistes::02. officers	officers Stolistes
+to watch over the Cup of Lustral Water,	and to purify the Hall and the Fraters and Sorors and the Aspirant with Water.	Neophyte::02. Stolistes::02. officers	officers Stolistes
+<b>Hierophant:</b> Sr/Fr Stolistes and Sr/Fr Dadouchos, will you please purify and consecrate the Hall with Water and with Fire.	I will.	Neophyte::02. Stolistes::03. purification_consecration	purification_consecration Stolistes
+<i>The Stolistes returns to the East to complete the circle, traces a cross and circle in the air, then holds the Cup on high and says</i>	I purify with Water.	Neophyte::02. Stolistes::03. purification_consecration	purification_consecration Stolistes
+<b>Hegemon:</b> Inheritor of a Dying World, arise and enter the Darkness.	The Mother of Darkness hath blinded them with Her Hair.	Neophyte::02. Stolistes::06. initiation	initiation Stolistes
+<b>Kerux:</b> Unpurified and Unconsecrated, thou canst not enter our Sacred Hall.	In thy Name, _______________, I purify Thee with Water.	Neophyte::02. Stolistes::06. initiation	initiation Stolistes
+<b>Kerux:</b> Unpurified and Unconsecrated, thou canst not enter the path of the West!	In thy Name, _______________, I purify Thee with Water.	Neophyte::02. Stolistes::06. initiation	initiation Stolistes
+<b>Kerux:</b> Unpurified and Unconsecrated, thou canst not enter the path of the East!	In thy Name, ____________________, I purify Thee with Water.	Neophyte::02. Stolistes::06. initiation	initiation Stolistes
+<b>Hiereus:</b> Let the final Consecration take place.	In thy Name, _______________, I purify Thee with Water.	Neophyte::02. Stolistes::06. initiation	initiation Stolistes

@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Cue	Line	Deck	Tags
+#deck column:3
+#tags column:4
+		Neophyte::<NN>. <Officer>::01. greeting	greeting <Officer>
+		Neophyte::<NN>. <Officer>::02. officers	officers <Officer>
+		Neophyte::<NN>. <Officer>::03. purification_consecration	purification_consecration <Officer>
+		Neophyte::<NN>. <Officer>::04. circumambulation	circumambulation <Officer>
+		Neophyte::<NN>. <Officer>::05. charge_opening	charge_opening <Officer>
+		Neophyte::<NN>. <Officer>::06. initiation	initiation <Officer>
+		Neophyte::<NN>. <Officer>::07. lengthy_explanations	initiation lengthy_explanations <Officer>
+		Neophyte::<NN>. <Officer>::08. closing	closing <Officer>
+		Neophyte::<NN>. <Officer>::09. mystic_repast	mystic_repast <Officer>
+		Neophyte::<NN>. <Officer>::10. charge_closing	charge_closing <Officer>

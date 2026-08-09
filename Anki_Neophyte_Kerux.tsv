@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Cue	Line	Deck	Tags
+#deck column:3
+#tags column:4
+<b>Hierophant:</b> <i>(Knock)</i><br><br> <i>[Context: Hierophant's first knock at the opening of the hall]</i>	HEKAS, HEKAS, ESTE BEBELOI!	Neophyte::03. Kerux::01. greeting	greeting Kerux
+<b>Hierophant:</b> ...Sr/Fr Kerux, please see that the Hall is properly guarded.	Sr/Fr Hierophant, the Hall is properly guarded.	Neophyte::03. Kerux::01. greeting	greeting Kerux
+<b>Hierophant:</b> Sr/Fr Kerux, your station and duties?	My place is within the portal.	Neophyte::03. Kerux::02. officers	officers Kerux
+My place is within the portal.	My duties are to see that the furniture of the Hall is properly arranged at the Opening,	Neophyte::03. Kerux::02. officers	officers Kerux
+My duties are to see that the furniture of the Hall is properly arranged at the Opening, 	to guard the inner side of the portal, to admit the Fraters and Sorors,	Neophyte::03. Kerux::02. officers	officers Kerux
+to guard the inner side of the portal, to admit the Fraters and Sorors,	and to watch over the reception of the Aspirant;	Neophyte::03. Kerux::02. officers	officers Kerux
+and to watch over the reception of the Aspirant;	to lead all Mystic Circumambulations carrying the Lamp of my Office;	Neophyte::03. Kerux::02. officers	officers Kerux
+to lead all Mystic Circumambulations carrying the Lamp of my Office; 	and to make all reports and announcements.	Neophyte::03. Kerux::02. officers	officers Kerux
+and to make all reports and announcements.	My Lamp is the symbol of Hidden Knowledge, and my Wand is the symbol of its directing power.	Neophyte::03. Kerux::02. officers	officers Kerux
+<b>Hierophant:</b> Sr/Fr Kerux, in the Name of the Lord of Initiation, I ask you to declare that we have opened the Hall of the Neophytes.	In the Name of the Lord of Initiation, I declare that the Sun has arisen and the Shadows flee away.	Neophyte::03. Kerux::05. charge_opening	charge_opening Kerux
+I declare that the Sun has arisen and the Shadows flee away. <i>Kerux returns to his/her place. (SoS).</i>	<i>(Knock)</i>	Neophyte::03. Kerux::05. charge_opening	charge_opening Kerux
+<b>Hegemon:</b> <i>(Knocks on door from without)</i><br><br> <i>[Context: Aspirant and Hegemon are without]</i>	<i>(Knock)</i> The Aspirant seeks for entrance.	Neophyte::03. Kerux::06. initiation	initiation Kerux
+<b>Hierophant:</b> Their limbs are still weary from the wars which are in Heaven.	Unpurified and Unconsecrated, thou canst not enter our Sacred Hall.	Neophyte::03. Kerux::06. initiation	initiation Kerux
+<b>Hierophant:</b> ...with the Lamp of Hidden Knowledge to guide us. <i>Kerux stops in the South after the second passing of Hierophant, barring the way with their Wand, saying:</i>	Unpurified and Unconsecrated, thou canst not enter the path of the West!	Neophyte::03. Kerux::06. initiation	initiation Kerux
+<b>Hiereus:</b> Thou hast known me now, so pass thou on. <i>Kerux stops in the North after passing the Hiereus, barring the way with their Wand, saying:</i>	Unpurified and Unconsecrated, thou canst not enter the path of the East!	Neophyte::03. Kerux::06. initiation	initiation Kerux
+<b>Hierophant:</b> Sr/Fr Kerux will you please declare that our Sr/Fr Neophyte has been initiated into the Mysteries of the 0=0 Hall?	In the Name of the Lord of Initiation, The Lord of Silence and of Strength, I proclaim that <i>(worldly name)</i>, 	Neophyte::03. Kerux::06. initiation	initiation Kerux
+In the Name of the Lord of Initiation, The Lord of Silence and of Strength,  I proclaim that <i>(worldly name)</i>, 	who will henceforth be known among us by the Motto _______________________, 	Neophyte::03. Kerux::06. initiation	initiation Kerux
+who will henceforth be known among us by the Motto _______________________, 	has been duly admitted to the 0=0 Hall as a Neophyte of the Order of the Golden Dawn.	Neophyte::03. Kerux::06. initiation	initiation Kerux
+<b>Hierophant:</b> Upon passing, you will be ready at your discretion for the next Degree.	Saith the Queen of Space: Now, therefore, I am known to ye by my name Nuit,	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+Saith the Queen of Space: Now, therefore, I am known to ye by my name Nuit,	and to him by a secret name which I will give him when at last he knoweth me. 	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+and to him by a secret name which I will give him when at last he knoweth me. 	Since I am Infinite Space, and the Infinite Stars thereof, do ye also thus.	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+Since I am Infinite Space, and the Infinite Stars thereof, do ye also thus. 	Bind nothing! Let there be no difference made among you between any one thing & any other thing;	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+Bind nothing! Let there be no difference made among you between any one thing & any other thing;	for thereby there commeth hurt.	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+for thereby there commeth hurt.	But whoso availeth in this, let him be chief of all!	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+But whoso availeth in this, let him be chief of all!	Obey my prophet! follow out the ordeals of my knowledge! seek me only! 	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+Obey my prophet! follow out the ordeals of my knowledge! seek me only! 	Then the joys of my love will redeem ye from all pain.	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+Then the joys of my love will redeem ye from all pain.	This is so: I swear it by the vault of my body;	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+This is so: I swear it by the vault of my body;	by my sacred heart and tongue; by all I can give, by all I desire of ye all.	Neophyte::03. Kerux::06. initiation	initiation nuit_speech Kerux
+<b>Hierophant:</b> <i>(Knock)</i><br><br> <i>[Context: After initiation is over, and after "other business"]</i>	HEKAS, HEKAS, ESTE BEBELOI!	Neophyte::03. Kerux::08. closing	closing Kerux
+<b>Hierophant:</b> Please assist me to close the Hall of the Neophytes. Sr/Fr Kerux, see that the Hall is properly guarded.	Sr/Fr Hierophant, the Hall is properly guarded.	Neophyte::03. Kerux::08. closing	closing Kerux
+<i>The mystic repast is taken in this order:[...]Dadouchos, Sentinel, the members, guests, new Neophytes, and ends with the Kerux.</i>	<i>(drains cup and inverts it in the center of the altar)</i><br>It is finished! 	Neophyte::03. Kerux::09. mystic_repast	mystic_repast Kerux

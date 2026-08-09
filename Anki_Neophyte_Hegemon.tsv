@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+#columns:Cue	Line	Deck	Tags
+#deck column:3
+#tags column:4
+<b>Hierophant:</b> Sr/Fr Hegemon, your station and duties?	My station is between the Two Pillars of Hermes and Solomon and my face is towards the cubical Altar of the Universe.	Neophyte::04. Hegemon::02. officers	officers Hegemon
+My station is between the Two Pillars of Hermes and Solomon and my face is towards the cubical Altar of the Universe.	My duty is to watch over the Gateway of the Hidden Knowledge for I am the reconciler between Light and Darkness.	Neophyte::04. Hegemon::02. officers	officers Hegemon
+My duty is to watch over the Gateway of the Hidden Knowledge for I am the reconciler between Light and Darkness.	I watch over the preparation of the Aspirant and assist in their reception,	Neophyte::04. Hegemon::02. officers	officers Hegemon
+I watch over the preparation of the Aspirant and assist in their reception,	and I lead them in the Path that conducts from Darkness to Light.	Neophyte::04. Hegemon::02. officers	officers Hegemon
+and I lead them in the Path that conducts from Darkness to Light.	The White Color of my Robe is the color of Purity,	Neophyte::04. Hegemon::02. officers	officers Hegemon
+The White Color of my Robe is the color of Purity,	my ensign of office is the Feather-crowned scepter to symbolize balance which guides and regulates life,	Neophyte::04. Hegemon::02. officers	officers Hegemon
+my ensign of office is the Feather-crowned scepter to symbolize balance which guides and regulates life,	and my Office symbolizes those higher aspirations of the soul which should guide its action.	Neophyte::04. Hegemon::02. officers	officers Hegemon
+<b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
+<b>Hiereus:</b> <i>(!)</i> KONX<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> OM	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
+<b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
+<b>Hierophant:</b> Let the Stolistes and the Dadouchos assist in the reception.	Inheritor of a Dying World, arise and enter the Darkness.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> ...Why seekest thou admission to our Order?	<i>(Asp. — prompt as needed)</i> My Soul wanders in Darkness and seeks the Light of Hidden Knowledge, and I believe that in this Order Knowledge of that Light may be obtained.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> ...are you willing to take a profound Obligation in the presence of this Assembly, to keep the Mysteries of our Order inviolate?	<i>(Asp. — you may prompt)</i> I am.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> ...Are you ready to take this Oath?	<i>(Asp. — you may prompt)</i> I am.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> ...Are you willing to take this supreme vow?	<i>(Asp. — you may prompt)</i> I am.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> Is it your will to take this ultimate vow?	<i>(Asp. — prompt as needed)</i> It is. <i>(or some such)</i>	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> ...The place of Forgetfulness, Dumbness and Necessity, and the greatest symbolic Darkness.	The voice of my Undying and Secret Soul said unto me: <i>(Speaking to Aspirant)</i>	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+The voice of my Undying and Secret Soul said unto me: <i>(Speaking to Aspirant)</i>	Let me enter the Path of Darkness and, peradventure, there shall I find the Light. 	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+Let me enter the Path of Darkness and, peradventure, there shall I find the Light.	I am the only Being in an Abyss of Darkness: from an Abyss of Darkness came I forth ere my birth,	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+I am the only Being in an Abyss of Darkness: from an Abyss of Darkness came I forth ere my birth,	from the Silence of a Primal Sleep. And the Voice of Ages answered to my soul:"	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Dadouchos:</b> In thy Name, _______________, I consecrate Thee with Fire.<br><br><i>[Context: Approaching Hiereus]</i>	Child of Earth, twice purified and twice consecrated, thou mayest approach the Gateway of the West.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> Thou canst not pass by me, saith the Guardian of the West, unless thou canst tell me my name.	<i>(Asp. — you prompt)</i> Darkness is thy Name, thou Great One of the Paths of the Shades.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Dadouchos:</b> In thy Name, ____________________, I consecrate Thee with Fire.<br><br><i>[Context: Approaching Hierophant]</i>	Child of Earth, thrice purified and thrice consecrated, thou mayest approach the Gateway of the East.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> Thou canst not pass by me, saith the Guardian of the East, unless thou canst tell me my name.	<i>(Asp. — you prompt)</i> Light dawning in Darkness is thy Name, the Light of a Golden Day!	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>All (whispered):</b> ...AND THE JOY OF DISSOLUTION ALL.	Inheritor of a Dying World, we call thee to the Living Beauty.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> <i>(Aspirant's motto)</i>	<i>(H&H&H together)</i> We receive thee into the Order of the Golden Dawn!	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> AM<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	PEKHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> KONX<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	OM	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> PAX<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	LIGHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> Sr/Fr Hegemon, will you please remove the Rope, the last remaining symbol of the Path of Darkness, and invest our Sr/Fr with the Badge of this degree.	I will.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<i>(After removing Rope, investing Sr/Fr with Badge)</i>	The Badge of this degree is a solid black sash which goes from the left shoulder to the right hip.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+The Badge of this degree is a solid black sash which goes from the left shoulder to the right hip.	Upon the breast is a white triangle symbolizing Light dawning in Darkness.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
+<b>Hiereus:</b> <i>(!)</i> KONX<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> OM	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
+<b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon

@@ -1,0 +1,12 @@
+# Deny by default. Nothing in this folder is tracked unless allowed below.
+#
+# This project's working files -- the raw ritual scripts, the _prepared.md
+# speaking scripts, and MAINTENANCE.md -- stay local and are never published.
+# New files dropped in here are invisible to git until deliberately allowed.
+
+/*
+
+# --- Allowed into the public repo ---
+!.gitignore
+!docs/
+!*.tsv
