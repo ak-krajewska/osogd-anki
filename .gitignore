@@ -8,5 +8,6 @@
 
 # --- Allowed into the public repo ---
 !.gitignore
+!README.md
 !docs/
 !*.tsv
