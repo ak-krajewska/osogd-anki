@@ -68,6 +68,12 @@ After import, you'll see a **Neophyte** deck with subdecks for each officer (Dad
 
 I welcome your feedback for how I might improve this study aid. This is version one, so there will surely be room for improvement. I would particularly like to hear if you get stuck setting up for the first time, if the cards don't work, or if there are errors or missing lines. Breaking down the script into flashcards was a fairly laborious process with a number of judgement calls. If this Neophyte deck proves useful and popular, I will create decks for other grades. Let me know if you'd like to help with that.
 
+## Build on this work or contribute
+
+The flachcard packs and the spreadsheets that I used to generate them are both available in the same GitHub repo where this page is hosted. https://github.com/ak-krajewska/osogd-anki
+
+You can download the spreadsheets and use them to create other study aids as you wish. I am open to contributions from OSOGD members who want to help add create cards for other rituals or our study materials. Contact me via our group and I will onboard you.
+
 ## Release notes
 
 ### Version 1.1 - August 12, 2026
