@@ -70,6 +70,12 @@ I welcome your feedback for how I might improve this study aid. This is version 
 
 ## Release notes
 
+### Version 1.1 - August 12, 2026
+
+File: `Neophyte-OSOGD-v1.1.apkg`
+
+This release fixes a bug in the Stolistes deck. Previously, the Stolistes cards showed the cue but no line. No other officer deck was affected. To fix your local version, load the package again from the link under **2. Load the deck**.
+
 ### Version 1 - August 8, 2026
 
 File: `Neophyte-OSOGD-v1.apkg`
