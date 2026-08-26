@@ -6,7 +6,7 @@
 <b>Hierophant:</b> Sr/Fr Dadouchos, your station and duties?	My station is in the South to symbolize Heat and Dryness,	Neophyte::01. Dadouchos::02. officers	officers Dadouchos
 My station is in the South to symbolize Heat and Dryness,	and my duty is to see that the Lamps and Fires of the Temple are ready at the opening,	Neophyte::01. Dadouchos::02. officers	officers Dadouchos
 and my duty is to see that the Lamps and Fires of the Temple are ready at the opening,	to watch over the Censer and the Incense,	Neophyte::01. Dadouchos::02. officers	officers Dadouchos
-to watch over the Censer and the Incense,	and to consecrate the Hall and the Fraters and Sorors and the Aspirant with Fire.	Neophyte::01. Dadouchos::02. officers	officers Dadouchos
+to watch over the Censer and the Incense,	and to consecrate the Hall, the Sodalii and the Aspirant with Fire.	Neophyte::01. Dadouchos::02. officers	officers Dadouchos
 <b>Hierophant:</b> Sr/Fr Stolistes and Sr/Fr Dadouchos, will you please purify and consecrate the Hall with Water and with Fire.	I will.	Neophyte::01. Dadouchos::03. purification_consecration	purification_consecration Dadouchos
 <b>Stolistes:</b> I purify with Water.<br><br><i>The Dadouchos continues censing around the circle until they return to the East, traces a cross and circle in the air, then raises the Censer on high and says</i>	I consecrate with Fire.	Neophyte::01. Dadouchos::03. purification_consecration	purification_consecration Dadouchos
 <b>Stolistes:</b> The Mother of Darkness hath blinded them with Her Hair.	The Father of Darkness hath hidden them under His Wings.	Neophyte::01. Dadouchos::06. initiation	initiation Dadouchos
