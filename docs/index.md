@@ -66,15 +66,25 @@ After import, you'll see a **Neophyte** deck with subdecks for each officer (Dad
 
 ## Feedback
 
-I welcome your feedback for how I might improve this study aid. This is version one, so there will surely be room for improvement. I would particularly like to hear if you get stuck setting up for the first time, if the cards don't work, or if there are errors or missing lines. Breaking down the script into flashcards was a fairly laborious process with a number of judgement calls. If this Neophyte deck proves useful and popular, I will create decks for other grades. Let me know if you'd like to help with that.
+I welcome your feedback for how I might improve this study aid. This is an evolving project, so there will surely be room for improvement. I would particularly like to hear if you get stuck setting up for the first time, if the cards don't work, or if there are errors or missing lines. Breaking down the script into flashcards was a fairly laborious process with a number of judgement calls. If this Neophyte deck proves useful and popular, I will create decks for other grades. Let me know if you'd like to help with that.
 
 ## Build on this work or contribute
 
-The flachcard packs and the spreadsheets that I used to generate them are both available in the same GitHub repo where this page is hosted. https://github.com/ak-krajewska/osogd-anki
+The flashcard packs and the spreadsheets that I used to generate them are both available in the same GitHub repo where this page is hosted. https://github.com/ak-krajewska/osogd-anki
 
-You can download the spreadsheets and use them to create other study aids as you wish. I am open to contributions from OSOGD members who want to help add create cards for other rituals or our study materials. Contact me via our group and I will onboard you.
+You can download the spreadsheets and use them to create other study aids as you wish. I am open to contributions from OSOGD members who want to help create cards for other rituals or our study materials. Contact me via our group and I will onboard you.
 
 ## Release notes
+
+### Version 2 - September 7, 2026
+
+File: `Neophyte-OSOGD-v2.apkg`
+
+This release updates every deck so it matches the latest Neophyte script, _Opening the Hall of the Neophytes, Het Iteru Redaction v1.0 — August 2026_. This release also introduces a few improvements to the cue/line chunking for the Hiereus and Hegemon decks so the lines are easier to memorize. Previously, the KHABS AM PEKHT KONX OM PAX sections for both Hiereus and Hegemon gave only a single previous word as the cue. Now, the cues are the natural context as you'd experience it in the ritual, giving just "KHABS" for "AM" but "KHABS AM PEKHT" for "KONX" and similar. Previously, the `lengthy_explanations` subsection of the Hiereus deck had rather large chunks as the cue/line pairs as I wanted each line to make sense. In practice, I found them too long to memorize. Now, the chunks are smaller, trading stand-alone sense for smaller bits to memorize.
+
+If you previously downloaded version 1 or 1.1, you must delete your Neophyte deck from the Anki app. Then, load the package again from the link under **2. Load the deck**.
+
+A number of the changes in this release re-organize speeches into different cards rather than editing the existing cards, so if you just import the new deck you will end up with duplicates. If you already updated without deleting first, delete your existing Neophyte deck and then load the latest deck.
 
 ### Version 1.1 - August 12, 2026
 

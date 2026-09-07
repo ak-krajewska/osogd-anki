@@ -10,9 +10,9 @@ I watch over the preparation of the Aspirant and assist in their reception,	and 
 and I lead them in the Path that conducts from Darkness to Light.	The White Color of my Robe is the color of Purity,	Neophyte::04. Hegemon::02. officers	officers Hegemon
 The White Color of my Robe is the color of Purity,	my ensign of office is the Feather-crowned scepter to symbolize balance which guides and regulates life,	Neophyte::04. Hegemon::02. officers	officers Hegemon
 my ensign of office is the Feather-crowned scepter to symbolize balance which guides and regulates life,	and my Office symbolizes those higher aspirations of the soul which should guide its action.	Neophyte::04. Hegemon::02. officers	officers Hegemon
-<b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
+<b>Hierophant:</b> <i>(!)</i> KHABS<br><br><b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
 <b>Hiereus:</b> <i>(!)</i> KONX<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> OM	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
-<b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
+<b>Hiereus:</b> <i>(!)</i> KONX<br><br><b>Hegemon:</b> <i>(!)</i> OM<br><br><b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Charge to the Hall, opening]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::05. charge_opening	charge_opening Hegemon
 <b>Hierophant:</b> Let the Stolistes and the Dadouchos assist in the reception.	Inheritor of a Dying World, arise and enter the Darkness.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <b>Hierophant:</b> ...Why seekest thou admission to our Order?	<i>(Asp. — prompt as needed)</i> My Soul wanders in Darkness and seeks the Light of Hidden Knowledge, and I believe that in this Order Knowledge of that Light may be obtained.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <b>Hierophant:</b> ...are you willing to take a profound Obligation in the presence of this Assembly, to keep the Mysteries of our Order inviolate?	<i>(Asp. — you may prompt)</i> I am.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
@@ -29,12 +29,12 @@ I am the only Being in an Abyss of Darkness: from an Abyss of Darkness came I fo
 <b>Hierophant:</b> Thou canst not pass by me, saith the Guardian of the East, unless thou canst tell me my name.	<i>(Asp. — you prompt)</i> Light dawning in Darkness is thy Name, the Light of a Golden Day!	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <b>All (whispered):</b> ...AND THE JOY OF DISSOLUTION ALL.	Inheritor of a Dying World, we call thee to the Living Beauty.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <b>Hierophant:</b> <i>(Aspirant's motto)</i>	<i>(H&H&H together)</i> We receive thee into the Order of the Golden Dawn!	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
-<b>Hiereus:</b> AM<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	PEKHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
-<b>Hiereus:</b> KONX<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	OM	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
-<b>Hierophant:</b> PAX<br><br><i>[Context: KHABS AM PEKHT reception, during initiation]</i>	LIGHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hierophant:</b> KHABS<br><br><b>Hiereus:</b> AM<br><br><i>[Context: reception, during initiation]</i>	PEKHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> KONX<br><br><i>[Context: reception, during initiation]</i>	OM	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
+<b>Hiereus:</b> KONX<br><br><b>Hegemon:</b> OM<br><br><b>Hierophant:</b> PAX<br><br><i>[Context: reception, during initiation]</i>	LIGHT	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <b>Hierophant:</b> Sr/Fr Hegemon, will you please remove the Rope, the last remaining symbol of the Path of Darkness, and invest the Initiate with the Badge of this degree.	I will.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 <i>(After removing Rope, investing the Initiate with Badge)</i>	The Badge of this degree is a solid black sash which goes from the left shoulder to the right hip.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
 The Badge of this degree is a solid black sash which goes from the left shoulder to the right hip.	Upon the breast is a white triangle symbolizing Light dawning in Darkness.	Neophyte::04. Hegemon::06. initiation	initiation Hegemon
-<b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
+<b>Hierophant:</b> <i>(!)</i> KHABS<br><br><b>Hiereus:</b> <i>(!)</i> AM<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> PEKHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
 <b>Hiereus:</b> <i>(!)</i> KONX<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> OM	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
-<b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
+<b>Hiereus:</b> <i>(!)</i> KONX<br><br><b>Hegemon:</b> <i>(!)</i> OM<br><br><b>Hierophant:</b> <i>(!)</i> PAX<br><br><i>[Context: Closing Charge]</i>	<i>(!)</i> LIGHT	Neophyte::04. Hegemon::10. charge_closing	charge_closing Hegemon
