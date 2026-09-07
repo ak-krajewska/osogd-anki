@@ -7,12 +7,12 @@
 <b>Hierophant:</b> ...Sr/Fr Kerux, please see that the Hall is properly guarded.	Sr/Fr Hierophant, the Hall is properly guarded.	Neophyte::03. Kerux::01. greeting	greeting Kerux
 <b>Hierophant:</b> Sr/Fr Kerux, your station and duties?	My place is within the portal.	Neophyte::03. Kerux::02. officers	officers Kerux
 My place is within the portal.	My duties are to see that the furniture of the Hall is properly arranged at the Opening,	Neophyte::03. Kerux::02. officers	officers Kerux
-My duties are to see that the furniture of the Hall is properly arranged at the Opening, 	to guard the inner side of the portal, to admit the Fraters and Sorors,	Neophyte::03. Kerux::02. officers	officers Kerux
-to guard the inner side of the portal, to admit the Fraters and Sorors,	and to watch over the reception of the Aspirant;	Neophyte::03. Kerux::02. officers	officers Kerux
+My duties are to see that the furniture of the Hall is properly arranged at the Opening, 	to guard the inner side of the portal, to admit the Sodalii,	Neophyte::03. Kerux::02. officers	officers Kerux
+to guard the inner side of the portal, to admit the Sodalii,	and to watch over the reception of the Aspirant;	Neophyte::03. Kerux::02. officers	officers Kerux
 and to watch over the reception of the Aspirant;	to lead all Mystic Circumambulations carrying the Lamp of my Office;	Neophyte::03. Kerux::02. officers	officers Kerux
 to lead all Mystic Circumambulations carrying the Lamp of my Office; 	and to make all reports and announcements.	Neophyte::03. Kerux::02. officers	officers Kerux
 and to make all reports and announcements.	My Lamp is the symbol of Hidden Knowledge, and my Wand is the symbol of its directing power.	Neophyte::03. Kerux::02. officers	officers Kerux
-<b>Hierophant:</b> Sr/Fr Kerux, in the Name of the Lord of Initiation, I ask you to declare that we have opened the Hall of the Neophytes.	In the Name of the Lord of Initiation, I declare that the Sun has arisen and the Shadows flee away.	Neophyte::03. Kerux::05. charge_opening	charge_opening Kerux
+<b>Hierophant:</b> Sr/Fr Kerux, in the Name of the Lord of Initiation, I ask you to declare that we have opened the Hall of the Neophytes.	In the Name of the Lord of Initiation, Lord of Silence and of Strength, I declare that the Sun has arisen and the Shadows flee away.	Neophyte::03. Kerux::05. charge_opening	charge_opening Kerux
 I declare that the Sun has arisen and the Shadows flee away. <i>Kerux returns to his/her place. (SoS).</i>	<i>(Knock)</i>	Neophyte::03. Kerux::05. charge_opening	charge_opening Kerux
 <b>Hegemon:</b> <i>(Knocks on door from without)</i><br><br> <i>[Context: Aspirant and Hegemon are without]</i>	<i>(Knock)</i> The Aspirant seeks for entrance.	Neophyte::03. Kerux::06. initiation	initiation Kerux
 <b>Hierophant:</b> Their limbs are still weary from the wars which are in Heaven.	Unpurified and Unconsecrated, thou canst not enter our Sacred Hall.	Neophyte::03. Kerux::06. initiation	initiation Kerux
