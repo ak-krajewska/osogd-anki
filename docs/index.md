@@ -10,6 +10,8 @@ This package contains Anki flashcards for the Neophyte ritual as performed by th
 
 <a href="files/Neophyte-OSOGD-latest.apkg" class="btn" download>Download the Neophyte deck</a>
 
+Prefer paper? [Print the cards instead](print.html).
+
 ## What is Anki?
 
 Anki is a flashcard program for computers and mobile devices. Instead of reviewing all the material every time, you put aside the items you already know for a while, and then review them only when you're about to forget them. The act of deliberately remembering something you almost forgot fixes it in your memory.  
@@ -75,6 +77,12 @@ The flashcard packs and the spreadsheets that I used to generate them are both a
 You can download the spreadsheets and use them to create other study aids as you wish. I am open to contributions from OSOGD members who want to help create cards for other rituals or our study materials. Contact me via our group and I will onboard you.
 
 ## Release notes
+
+### Printable cards - September 25, 2026
+
+Page: [Printable cards](print.html)
+
+This release adds a printable PDF of the cards for each officer, so you can study from paper without installing anything. They use the same cues and lines as version 2 of the Anki decks, and the decks so if you are already studying in Anki there is nothing to download and nothing to delete.
 
 ### Version 2 - September 7, 2026
 
